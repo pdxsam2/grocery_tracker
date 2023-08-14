@@ -1,4 +1,21 @@
-bread
-cheese
-onion
-potato
+Bread
+Ramen Noodles
+Pasta
+Tortillas
+Bell Peppers
+Carrots
+Spinach
+Onions
+Potatoes
+Tomatoes
+Apple
+Banana
+Kiwi
+Berries
+Cheese
+Shredded Cheese
+Milk
+Protein
+DONUT HOLES
+Ice cream
+Popsicles
